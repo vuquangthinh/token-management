@@ -1,0 +1,8 @@
+{
+  "name": "token-management",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/vuquangthinh/token-management.git",
+  "author": "quangthinh",
+  "license": "MIT"
+}
