@@ -6,8 +6,9 @@ export default class TokenManagement {
   isRefreshing = false;
   refreshTimeout = 3000;
 
-  constructor({ isTokenValid, getAccessToken, onRefreshToken }) {
+  constructor({ isTokenValid, getAccessToken, onRefreshToken, refreshTimeout = 3000 }) {
     const event = new EventEmitter();
+    this.refreshTimeout = refreshTimeout;
 
     event.on('refresh', () => {
       (async () => {
