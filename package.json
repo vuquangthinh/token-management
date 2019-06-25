@@ -10,7 +10,6 @@
     "build": "webpack"
   },
   "dependencies": {
-    "token-management": "1.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
