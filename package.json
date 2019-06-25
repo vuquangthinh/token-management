@@ -1,6 +1,6 @@
 {
   "name": "token-management",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "build/index.js",
   "repository": "https://github.com/vuquangthinh/token-management.git",
   "author": "quangthinh",

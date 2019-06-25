@@ -3539,18 +3539,6 @@ to-regex@^3.0.1, to-regex@^3.0.2:
     regex-not "^1.0.2"
     safe-regex "^1.1.0"
 
-token-management@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/token-management/-/token-management-1.0.1.tgz#3f590fce7b8c5a04a240995ae4658c2654ba627f"
-  integrity sha512-xXL9qfDGiGnvY4t6KkdeORUdD+EDbuzS6bSfLatr/MjfWFnw/w3IjNMLASjqGMye1RQPQP7As49YIwUnqC1+DA==
-  dependencies:
-    token-management "^1.0.0"
-
-token-management@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/token-management/-/token-management-1.0.0.tgz#d693db02bdf0143d8d8d9816c7b80e9fa9708144"
-  integrity sha512-hpAAmhG1pGcm8j2QoSYBQXjIMQQ471t0DsBym12luc6C7z42HAA3qxXXcMWtNi2Lc2/MQ4IXWYgCGnr6V3cPow==
-
 trim-right@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/trim-right/-/trim-right-1.0.1.tgz#cb2e1203067e0c8de1f614094b9fe45704ea6003"
