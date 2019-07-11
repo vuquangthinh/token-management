@@ -1,5 +1,12 @@
 
-
+# INSTALL - npm: https://www.npmjs.com/package/token-management
+```
+npm i token-management
+```
+or
+```
+yarn add token-management
+```
 
 # HOW IT WORK
 
