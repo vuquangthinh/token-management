@@ -1,6 +1,6 @@
 {
   "name": "token-management",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "build/index.js",
   "repository": "https://github.com/vuquangthinh/token-management.git",
   "author": "quangthinh",
@@ -12,14 +12,14 @@
   "dependencies": {
   },
   "devDependencies": {
-    "@babel/core": "^7.4.4",
-    "@babel/plugin-proposal-class-properties": "^7.4.4",
-    "@babel/plugin-proposal-object-rest-spread": "^7.4.4",
-    "@babel/plugin-transform-runtime": "^7.4.4",
-    "@babel/preset-env": "^7.4.4",
-    "@babel/runtime": "^7.4.4",
-    "babel-loader": "^8.0.5",
-    "webpack": "^4.30.0",
-    "webpack-cli": "^3.3.2"
+    "@babel/core": "^7.5.4",
+    "@babel/plugin-proposal-class-properties": "^7.5.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.5.4",
+    "@babel/plugin-transform-runtime": "^7.5.0",
+    "@babel/preset-env": "^7.5.4",
+    "@babel/runtime": "^7.5.4",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.35.3",
+    "webpack-cli": "^3.3.6"
   }
 }
